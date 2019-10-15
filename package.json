@@ -1,0 +1,28 @@
+{
+  "name": "Performance__2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "hermione": "^2.13.1",
+    "html-reporter": "^5.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hermione tests.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnicornShade/Performance__2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnicornShade/Performance__2019/issues"
+  },
+  "homepage": "https://github.com/UnicornShade/Performance__2019#readme"
+}
