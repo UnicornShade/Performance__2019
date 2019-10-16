@@ -11,7 +11,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "hermione tests.js",
+    "test": "hermione test.js",
+    "test-gui": "hermione gui test.js",
     "build": "webpack"
   },
   "repository": {
